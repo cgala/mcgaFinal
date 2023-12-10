@@ -1,0 +1,14 @@
+nav{
+    background-color: #870101;
+    padding: 14px 16px;
+}
+nav a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #111;
+}
